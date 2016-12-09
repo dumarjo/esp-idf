@@ -29,3 +29,5 @@ docs/xml/
 tools/unit-test-app/sdkconfig
 tools/unit-test-app/sdkconfig.old
 tools/unit-test-app/build
+/.cproject
+/.project
